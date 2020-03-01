@@ -1,6 +1,6 @@
 # MaxHTML
 
-#WICHTIG
+# WICHTIG
 - Am besten in 1920x1080 vorstellen
 - Auf der Index.html faden auch die Bilder in der zweiten Reihe rein, allerdings direkt wenn die Seite lädt. Also scroll am besten erst runter und stell dann das Karussel vor.
 
